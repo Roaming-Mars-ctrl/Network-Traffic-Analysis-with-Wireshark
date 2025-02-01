@@ -5,7 +5,7 @@ This project used WireShark to analyze my home network traffic, identify potenti
 
 ## Tools Used
 - **Wireshark**: Packet capturing and analysis
-- **Python**: Log analysis and automation
+- **Python**: Log analysis and automation with Scapy library
 
 ## Key Findings
 - Detected excessive UDP traffic from additional network devices.
