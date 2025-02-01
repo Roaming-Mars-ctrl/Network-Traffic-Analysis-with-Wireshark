@@ -18,3 +18,6 @@ This project used WireShark to analyze my home network traffic, identify potenti
 2. Capture traffic using `tcpdump` or Wireshark.
 3. Apply filters (e.g., `tcp.port == 80`) to analyze HTTP traffic.
 4. Export data and review patterns.
+
+## Notes
+**!Warning!:** Do not share `.pcap` files publicly as they may contain sensitive data!
